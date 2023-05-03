@@ -13,7 +13,7 @@ class FileController extends Controller
             'file' => 'required|mimes:pdf|max:2048'
         ]);
 
-        $text = Pdf::getText($validate->file);
+        $text = Pdf::getText($validate['file']);
 
         return dd($text);
 
