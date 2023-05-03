@@ -57,8 +57,13 @@
                 <p class="lead">
                 <form action="{{ route('upload') }}" method="post" enctype="multipart/form-data">
                     @csrf
-                    <input type="file" name="file" id="file" class="form-control mb-3">
-                    <button type="submit" class="btn btn-lg btn-primary fw-bold border-white">Analiz Et</button>
+                    <div class="form-group">
+                        <input class="form-control" type="text" placeholder="Mesleğiniz nedir?" name="job" id="job" />
+                    </div>
+                    <div class="form-group mt-2">
+                        <input type="file" name="file" id="file" class="form-control mb-3">
+                        <button type="submit" class="btn btn-lg btn-primary fw-bold border-white w-100">Analiz Et</button>
+                    </div>
                 </form>
                 </p>
             </div>

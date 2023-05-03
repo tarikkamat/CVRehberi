@@ -19,9 +19,6 @@
                 değildir. Bu nedenle, kullanıcıların bu servislerin kullanımından doğabilecek herhangi bir maddi veya
                 manevi zarardan dolayı CVRehberi sorumlu değildir ve sorumluluk kabul etmez.
             </li>
-            <li>Kullanıcı, özgeçmiş analizi sonuçlandıktan sonra özgeçmişlerinin Web Sitesi'nde saklanmamasını ve
-                sistemden silinmesini talep edebilir.
-            </li>
             <li>Kullanıcı, Web Sitesi'ni yalnızca özgeçmiş analizi için kullanmalıdır. Kullanıcılar, Web Sitesi'ni
                 kötüye kullanamazlar ve bu Site'yi herhangi bir yasa dışı veya suç işleme amaçlı kullanamazlar.
             </li>
@@ -46,7 +43,7 @@
         <h2>Sınırlı Sorumluluk</h2>
         <ol type="a">
             <li>CVRehberi.com.tr, Web Sitesi'nin veya özgeçmiş analiz hizmetlerinin kullanımından kaynaklanan hiçbir
-                doğrudan, dolaylı,ardışık, cezai, özel veya diğer herhangi bir türden zarar veya kayıptan sorumlu
+                doğrudan, dolaylı, ardışık, cezai, özel veya diğer herhangi bir türden zarar veya kayıptan sorumlu
                 değildir. CVRehberi.com.tr, özgeçmiş analiz hizmetlerinin doğruluğu, güvenilirliği, kullanılabilirliği
                 veya uygunluğu konusunda herhangi bir garanti vermez.
             </li>
@@ -58,9 +55,10 @@
     <li>
         <h2>Kişisel Verilerin İşlenmesi</h2>
         <ol type="a">
-            <li>CVRehberi.com.tr, özgeçmiş analiz hizmetlerinin sağlanması için Kullanıcıların kişisel verilerini
-                işleyebilir. Kişisel verilerin işlenmesi, CVRehberi.com.tr Gizlilik Politikasına uygun olarak
-                gerçekleştirilir.
+            <li>CVRehberi.com.tr, özgeçmiş analiz hizmetlerinin sağlanması için Kullanıcıların kişisel verilerini metin
+                formatına dönüştürür ve ChatGPT API servislerine gönderir. Bu servisler, kişisel verilerin analizini
+                yapar ve analiz sonuçlarını CVRehberi.com.tr'ye gönderir. CVRehberi.com.tr, analiz sonuçlarını
+                kullanıcılarla paylaşır.
             </li>
             <li>Kullanıcı, kişisel verilerinin Web Sitesi tarafından işlenmesine ve özgeçmiş analizi hizmetlerinin
                 sağlanması için kullanılmasına açıkça ve özgür iradesiyle rıza gösterir.
@@ -92,13 +90,6 @@
         </ol>
     </li>
 </ol>
-<h2>Önemli Not</h2>
-<p>
-    Özgeçmiş analiz sonuçlarınız tafınızla paylaşıldıktan sonra özgeçmişinizin silinmesi için işlem sağlanmaya
-    çalışılacaktır. Her hangi bir teknik aksaklıktan dolayı gecikme yaşanmasına karşın özgeçmişlerin tutulduğu
-    dizin her 24(yirmi dört) saat aralıklarla silinme isteği gönderilecektir. Teknik aksaklık veya gecikmelerden
-    dolayı CVRehberi.com.tr sorumluluk kabul etmemektedir.
-</p>
 <p>
     Bu Sözleşme, taraflar arasında yapılan anlaşmanın tamamını oluşturur ve önceki sözlü veya yazılı
     anlaşmaların yerini alır. Bu Sözleşme'nin herhangi bir hükmünün geçersizliği veya uygulanamazlığı, geri
