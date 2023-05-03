@@ -51,6 +51,7 @@
                     sonucu paylaşılır. CV Rehberi, kullanıcıların özgeçmişlerindeki güçlü ve zayıf yönleri keşfetmelerine ve bu
                     doğrultuda kendilerini geliştirmelerine yardımcı olmayı hedefler.
                 </p>
+                <h6 class="mt-2">Yalnızca <span class="text-danger">PDF</span> dosyaları yükleyebilirsiniz.</h6>
             </div>
             <div class="col-sm-12">
                 <p class="lead">

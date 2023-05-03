@@ -9,17 +9,11 @@ class FileController extends Controller
 {
     public function upload(Request $request)
     {
-        $request->validate([
+        $validate = $request->validate([
             'file' => 'required|mimes:pdf|max:2048'
         ]);
 
-        $fileName = time().'.'.$request->file->extension();
-
-        $request->file->move(public_path('uploads'), $fileName);
-
-        $filePath = public_path('uploads/'.$fileName);
-
-        $text = Pdf::getText($filePath);
+        $text = Pdf::getText($validate->file);
 
         return dd($text);
 
